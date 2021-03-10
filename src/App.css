@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.navigat {
+  max-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.nav-links {
+  max-width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 10px 0 0;
+}
+
+.nav-link {
+  text-decoration: none;
+  font-size: 1.25em;
+  color: #6814d3;
+  padding: 0 10px;
+}
+
+.nav-link:hover {
+  color: #fece46;
+}
